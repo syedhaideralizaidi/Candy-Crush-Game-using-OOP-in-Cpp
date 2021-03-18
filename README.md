@@ -1,3 +1,4 @@
+[Semester Project DescriptionV1.pdf](https://github.com/zaidi-14/Candy-Crush-Game/files/6161789/Semester.Project.DescriptionV1.pdf)
 # Candy-Crush-Game
 This is the game same like Candy Crush using the concepts of Object Oriented Programming (OOP) in C++.
 
